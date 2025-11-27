@@ -1,0 +1,6 @@
+xentocanto-api  
+pandas
+numpy
+urllib3<2
+librosa
+matplotlib
