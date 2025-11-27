@@ -1,6 +1,6 @@
 # Little Owl Regional Dialect Analysis
 
-Welcome to my bioacoustic CNN project! In this code, data on Little Owls (Athene noctua) are analysed using a Convolutional Neural Network (CNN) to investigate whether they exhibit regional (country-level) vocal variation. 
+Welcome to my bioacoustic CNN project! In this code, data on Little Owls (_Athene noctua_) are analysed using a Convolutional Neural Network (CNN) to investigate whether they exhibit regional (country-level) vocal variation. 
 
 First, clone this repo, and run the requirements.txt file in a virtual environment with Python 3.9 or higher.
 
