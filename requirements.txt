@@ -4,3 +4,9 @@ numpy
 urllib3<2
 librosa
 matplotlib
+torch 
+torchvision 
+pandas 
+scikit-learn 
+pillow
+seaborn
